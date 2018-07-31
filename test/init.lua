@@ -1,4 +1,4 @@
-app = require("application")
+app = {}
 config = require("config")
 setup = require("setup")
 
